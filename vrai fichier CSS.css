@@ -3,3 +3,8 @@ vrai fichier CSS
 CONTENU 1
 
 CONTENU 2
+
+h1 {
+    font-size: 70px;
+    color: green;
+  }
